@@ -98,7 +98,7 @@ class: inverse, center, middle
 - fight distraction, gain focus (your pair doesn't care about your facebook page)
 --
 
-- we're already [starting to pair-design]. How do we pair *more*?
+- we're already [starting to pair-design][]. How do we pair *more*?
 
 ---
 
