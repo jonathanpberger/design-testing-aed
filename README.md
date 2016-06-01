@@ -1,3 +1,11 @@
+# Towards a Theory & Methodology for Test-Driven Design
+
+This talk was first given at the Mobile Commons Europe conference in Warsaw, Poland, as a 45m talk. This version is a ~25m version.
+
+- use `deck20mins.md` as the main deck file
+- run `make run` to start the server
+- remark.js isn't building properly due to dependency issues, so any changes to remark must be made to the `/out` versions of files. :-(
+
 # remark
 
 [![Build Status](https://travis-ci.org/gnab/remark.svg?branch=develop)](https://travis-ci.org/gnab/remark)
