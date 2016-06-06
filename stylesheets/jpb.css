@@ -14,7 +14,11 @@
 }
 
 
-.small-image img{
+.small-image img {
   width: 40%;
+}
+
+.three-small-images img {
+  width: 30%;
 }
 

@@ -19,9 +19,9 @@ class: center middle
 
 # Towards a Theory & Methodology of <br/> Test-Driven Design
 
-Jonathan Berger, 2015
+Jonathan Berger, 2016
 
-Lean UX NYC
+For Thoughtbot, with <3
 
 ---
 
@@ -36,8 +36,6 @@ Lean UX NYC
 ---
 
 
-<!-- - trim "why" intro around "designers have a problem too"
- -->
 
 # What hurts in Design?
 
@@ -186,6 +184,7 @@ class: center, middle, inverse
 
 # I. The Benefits of TDD
 
+
 ---
 
 class: de-em-list
@@ -219,12 +218,19 @@ class: de-em-list
 
 
 ---
-
+name: how-does-tdd-work
 class: center, middle, inverse
 
 # II. How does TDD work?
 
+???
+
+- Thoughtbots probably know this stuff
+- I included it because it can be a helpful way to describe TDD
+- do we want to go into it?
+
 ---
+name: hamazon
 class: middle
 .f3[A TDD example: ]
 
@@ -504,12 +510,12 @@ name: csstest
 
 ### 1. Screenshot Diff'ing
 
-.de-em[Examples using [Wraith][wraith] and [CSS Critic][csscritic]]
+Examples using [Percy][percy] and [Wraith][wraith] and [CSS Critic][csscritic]
 
-.left-column[![](images/wraith.png)]
-.right-column[
-![](images/css-critic.png)
-]
+.three-small-images[![](images/percy.png)]
+.three-small-images[![](images/wraith.png)]
+.three-small-images[![](images/css-critic.png)]
+
 
 ---
 
@@ -746,7 +752,7 @@ name:design-pyramid
 | UI     | Usability Testing               | [Usertesting][usertesting]     | Usability                | Interaction       | ••                 |
 | UX     | [Story-Centered Design][scd] CI | **[BUILD ME! :-)][red-ci]**    | Flow Coverage            | User Flow         | ••                 |
 | FE     | Cross-Browser Testing           | [Browsershots][browsershots]   | X-browser Consistency    | Browser           | •••                |
-| ALL    | BDR Testing                     | **[BUILD ME! :-)][red-ci]**    | Defining 'Done'          | Story             | •••                |
+| ALL    | BDR Testing                     | [Percy][percy]    | Defining 'Done'          | Story             | •••                |
 | FE     | Screenshot Diff'ing             | [Wraith][wraith]               | Screen Regressions       | Screen            | •••                |
 | FE     | Linting                         | [CSSLint][csslint]             | Code Consistency         | Line              | •••                |
 
@@ -756,8 +762,9 @@ name: next
 class: inverse
 # What's Next?
 - Explore where TDD ideas can help design practice
-- Socialize the idea of Design Health Check in CI
-- Continue to improve testing tools
+- <s>Socialize the idea of Design Health Check in CI</s>
+- PERCY!!
+- Continue to improve testing tools & practice
 
 ---
 
@@ -817,6 +824,7 @@ name: resources
 [spandrels]:http://en.wikipedia.org/wiki/Spandrel_%28biology%29
 [cargo cult design]:https://twitter.com/hashtag/CargoCultDesign?src=hash
 [xp-explained]:http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658
+[percy]: http://percy.io
 ```
 ]
 
@@ -844,6 +852,7 @@ name: resources
 [cargo cult design]:https://twitter.com/hashtag/CargoCultDesign?src=hash
 [xp-explained]:http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658
 [starting to pair-design]: http://pivotallabs.com/benefits-of-pair-design/
+[percy]: http://percy.io
 
 ---
 
