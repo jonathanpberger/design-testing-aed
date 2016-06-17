@@ -11,9 +11,10 @@
 }
 */
 div.my-footer {
+    // background-image: linear-gradient(#d2383f, #e85448);
     background-color: #fff;
-    background-image: linear-gradient(#d2383f, #e85448);
     color: #e7e7e7;
+    color: #d2383f;
     font-weight: 500;
     position: absolute;
     bottom: 0px;

@@ -2,11 +2,10 @@ layout: true
 class: middle
 
   <div class="my-header">
-    <!-- <img src="images/logo_tiny.png" style="height: 30px;"/> -->
   </div>
   <div class="my-footer">
-    <span class=left>Design Testing for Fun & Profit</span>
-    <span class=right>for Thoughtbot, with <3</span>
+    <span class=right>Introduction to TDDesign</span>
+    <img src="images/aed-logo.png" style="height: 37px; float: left; padding-left: 1%;"/>
   </div>
 
 ---
@@ -21,7 +20,7 @@ class: center middle
 
 Jonathan Berger, 2016
 
-For Thoughtbot, with <3
+Agile Experience Design Meetup
 
 ---
 
