@@ -33,6 +33,10 @@ div.my-footer span.left {
     left: 15px;
 }
 
+div.my-footer span.center {
+    left: 45%;
+}
+
 div.my-footer span.right {
     right: 15px;
 }

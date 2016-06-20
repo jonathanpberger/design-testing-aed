@@ -4,7 +4,8 @@ class: middle
   <div class="my-header">
   </div>
   <div class="my-footer">
-    <span class=right>Introduction to TDDesign</span>
+    <span class=right>Introducing Test-Driven Design</span>
+    <span class=center>@jonathanpberger</span>
     <img src="images/aed-logo.png" style="height: 37px; float: left; padding-left: 1%;"/>
   </div>
 
