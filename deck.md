@@ -277,7 +277,7 @@ Gherkin looks a lot like regular English, but with a few magic words:
 ### Write the Test
 
 ```ruby
-Given I am a loggedin User
+Given I am a logged_in User
 When I go to the Item Page
 And I tap the "Add Item to Cart" button
 Then I should see the Cart Inventory increment
