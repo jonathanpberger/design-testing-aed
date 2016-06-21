@@ -772,7 +772,7 @@ class: inverse
 
 - <http://jonathanpberger.com/talks>
 - Say hi on twitter at `@jonathanpberger`
-- or `jonathanpberger` on github, gmail, forrst, etc...
+- or `jonathanpberger` on github, gmail, etc...
 
 ---
 class: center, middle
@@ -860,5 +860,5 @@ name: resources
 
 - <http://jonathanpberger.com/talks>
 - Say hi on twitter at `@jonathanpberger`
-- or `jonathanpberger` on github, gmail, forrst, etc...
+- or `jonathanpberger` on github, gmail, etc...
 
