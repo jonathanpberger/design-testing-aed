@@ -1,15 +1,4 @@
 /* Header/Footer stuff */
-/*div.my-header {
-    background-color: #F00;
-    background: -webkit-gradient(linear, left top, right top, color-stop(0%,#ffb76b), color-stop(0%,#ffa73d), color-stop(0%,#ffffff), color-stop(10%,#ffffff), color-stop(25%,#F77A00), color-stop(100%,#F77A00));
-    position: fixed;
-    top: 0px;
-    left: 0px;
-    height: 30px;
-    width: 100%;
-    text-align: left;
-}
-*/
 div.my-footer {
     // background-image: linear-gradient(#d2383f, #e85448);
     background-color: #fff;
@@ -43,50 +32,6 @@ div.my-footer span.right {
 
 /* JPB Styles ------------*/
 
-@font-face {
-    font-family: "Gotham";
-    src: url('../fonts/Gotham-Book.otf');
-}
-
-@font-face {
-    font-family: "Gotham";
-    src:      url('../fonts/Gotham-BookItalic.otf');
-    font-style: italic;
-}
-
-@font-face {
-    font-family: "Gotham";
-    src:      url('../fonts/Gotham-XLight.otf');
-    font-style: 100;
-}
-
-@font-face {
-    font-family: "Gotham";
-    src:      url('../fonts/Gotham-Light.otf');
-    font-style: 200;
-}
-
-/*Gotham-MediumItalic.otf*/
-/*Gotham-XLightItalic.otf*/
-
-@font-face {
-    font-family: "Gotham";
-    src: url('../fonts/Gotham-Bold.otf');
-    font-weight: bold;
-    font-weight: 700;
-}
-
-@font-face {
-    font-family: "Gotham";
-    src: url('../fonts/Gotham-Black.otf');
-    font-weight: 800;
-}
-
-@font-face {
-    font-family: "Gotham";
-    src: url('../fonts/Gotham-Ultra.otf');
-    font-weight: 900;
-}
 
 /* ###### JPB Deck Styles */
 
@@ -111,7 +56,7 @@ light gray: #b5b5c0;
 }
 
 body {
-  font-family: 'Gotham';
+  font-family: 'Work Sans', sans-serif;
 
 }
 
